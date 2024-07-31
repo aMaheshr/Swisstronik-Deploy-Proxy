@@ -43,7 +43,7 @@ chmod +x name.sh
 ### Form Submission
 
 - copy deployed proxy contract address on Terminal [ 01 ]
-- copy Transaction hash - deployed contract address proxy -  [ 02 ]
+- copy Transaction hash - deployed contract address proxy - [ 02 ]
 - copy hash : replace ( EX : https://explorer-evm.testnet.swisstronik.com/ " hash " ) [ 03 ]
 
   
